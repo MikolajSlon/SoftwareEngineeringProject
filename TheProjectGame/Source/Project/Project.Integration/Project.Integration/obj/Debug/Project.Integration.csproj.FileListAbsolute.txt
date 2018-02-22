@@ -1,0 +1,31 @@
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\bin\Debug\Project.Integration.dll
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\bin\Debug\Project.Integration.pdb
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\obj\Debug\Project.Integration.csprojResolveAssemblyReference.cache
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\obj\Debug\Project.Integration.dll
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\obj\Debug\Project.Integration.pdb
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\bin\Debug\CommunicationServer.exe
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\bin\Debug\GameMaster.exe
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\bin\Debug\Messages.dll
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\bin\Debug\Player.exe
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\bin\Debug\CommunicationServer.pdb
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\bin\Debug\GameMaster.pdb
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\bin\Debug\Messages.pdb
+h:\windows7\documents\visual studio 2015\Projects\Project.Integration\Project.Integration\bin\Debug\Player.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\Project.Integration.dll
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\Project.Integration.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\CommunicationServer.exe
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\GameMaster.exe
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\Messages.dll
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\Player.exe
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\CommunicationServer.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\GameMaster.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\Messages.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\Player.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\obj\Debug\Project.Integration.csprojResolveAssemblyReference.cache
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\obj\Debug\Project.Integration.dll
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\obj\Debug\Project.Integration.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\FakeItEasy.dll
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\FakeItEasy.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Project\Project.Integration\Project.Integration\bin\Debug\FakeItEasy.xml

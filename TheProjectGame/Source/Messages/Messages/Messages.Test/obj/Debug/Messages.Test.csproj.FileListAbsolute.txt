@@ -1,0 +1,16 @@
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\Messages.Test.dll
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\Messages.Test.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\CommunicationServer.exe
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\FakeItEasy.dll
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\GameMaster.exe
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\Messages.dll
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\Player.exe
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\CommunicationServer.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\GameMaster.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\Player.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\Messages.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\FakeItEasy.pdb
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\bin\Debug\FakeItEasy.xml
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\obj\Debug\Messages.Test.csprojResolveAssemblyReference.cache
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\obj\Debug\Messages.Test.dll
+h:\Windows7\Desktop\TheProjectGame\Source\Messages\Messages\Messages.Test\obj\Debug\Messages.Test.pdb

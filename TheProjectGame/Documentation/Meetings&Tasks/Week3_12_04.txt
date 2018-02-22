@@ -1,0 +1,23 @@
+8.04
+Kusmierczyk and Szperna
+reading initial values from xml and testing
+
+7.04
+Słoń and Żaba
+join game message testing
+branch merging
+further work on acceptinh multiple games
+
+Kusmierczyk and Szperna
+Proper reading of parameters from console
+Tests Checking the parameters
+reading initial values from xml and testing (start)
+
+6.04
+Słoń and Żaba
+adding gamestate
+adding special character to every message
+work on handling multiple games (start)
+
+Kusmierczyk and Szperna
+reading IP adress and port from command line
